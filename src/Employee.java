@@ -52,8 +52,7 @@ public class Employee {
         return "сотрудник | id: " + id +
                 ", Ф.И.О.: - '" + fullName +
                 ", зарплата:" + salary +
-                ", отдел: " + departmentId +
-                '|';
+                ", отдел: " + departmentId;
     }
 }
 
